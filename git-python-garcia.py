@@ -1,3 +1,6 @@
 print("Angel Mae Garcia")
 print("Nangka, Torrijos, Marinduque")
 print("May 13, 2002")
+print("Mariduque State College")
+print("BSI/T")
+print("2D")
